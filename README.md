@@ -1,2 +1,2 @@
 # Inovatorii 3
- Aplicatie
+ Aplicatie de baze de date 
